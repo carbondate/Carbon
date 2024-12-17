@@ -1,0 +1,13 @@
+{
+    "name": "carbondate/carbon",
+    "description": "A simple API extension for DateTime.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Carbon\\": "src/Carbon/"
+        }
+    },
+    "require": {
+	"php": ">=7.1"
+}
+}
